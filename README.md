@@ -4,12 +4,15 @@
 
 <h1 align="center">Who am I ?</h1>
 
-<p align="left">"I am French and live near Paris. I have worked in the IT industry for nearly 35 years, but not in the technical domain. Instead, I have worked as a consultant and functional support for ERP systems."</p>
+<p align="left">I am French and live near Paris. I have worked in the IT industry for nearly 35 years, but not in the technical domain. Instead, I have worked as a consultant and functional support for ERP systems.</p>
 
+<h1 align="center">Why am I interested by Go program ?</h1>
 
+<p align="left">First of all, I have always dreamed of getting into technical programming, and initially, I was more interested in Python and Rust. However, by chance, I stumbled upon your website, Bitfield Consulting, and specifically the article: "The Tao of Go." I really appreciate the philosophy behind this article, and I am now determined to learn to program in Go with this mindset.</p>
 
+<h1 align="center">What will be my first project ?</h1>
 
-
+<p align="left">I would like a website that discusses art, technology, and politics. Initially, I thought of creating it in HTML, but considering what I mentioned earlier, creating it in Go seems essential. You will find two branches on GitHub: Main (where there is a first Go program) and Go Fundamentals (where there is the first building block of my website. Feel free to comment).</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=specs7&label=Profile%20views&color=0e75b6&style=flat" alt="specs7" /> </p>
 
