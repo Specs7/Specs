@@ -2,6 +2,15 @@
 <h1 align="center">Hi 👋, I'm Rachid Abdelli</h1>
 <h3 align="center">Beginners on almost everything</h3>
 
+<h1 align="center">Who am I ?</h1>
+
+<p align="left">"I am French and live near Paris. I have worked in the IT industry for nearly 35 years, but not in the technical domain. Instead, I have worked as a consultant and functional support for ERP systems."</p>
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=specs7&label=Profile%20views&color=0e75b6&style=flat" alt="specs7" /> </p>
 
 - 🌱 I’m currently learning **The basics of Go**
